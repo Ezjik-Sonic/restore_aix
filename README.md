@@ -1,2 +1,2 @@
 # restore_aix
-restore an  AIN host by Netbackup and NIM server
+restore an  AIX host by Netbackup and NIM server
